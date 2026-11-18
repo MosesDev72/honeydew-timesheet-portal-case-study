@@ -2,7 +2,7 @@
 
 **Client:** Honeydew Consulting · **Program:** AscentUP / Riipen supervised project engagement · **Dates:** August–October 2025
 **My role:** Project Lead on a four-person remote team (backend, frontend, QA)
-**Outcome:** Successfully completed (AscentUP official Record of Completion, November 2025). Rated 5/5 by Honeydew Consulting's project contact.
+**Outcome:** Successfully completed (AscentUP official Record of Completion, November 2025). Received a 5/5 project evaluation from Honeydew Consulting's project contact through Riipen.
 
 ---
 
@@ -28,7 +28,7 @@ I kept requirements, dependencies, status, risks and readiness visible across th
 When team capacity changed partway through, I kept the coordination going while taking on additional QA and validation work myself.
 
 **3. Workflow and output validation**
-I personally checked the key workflows end to end: submit (POST) → retrieve (GET) → download/export. I checked the Excel output against the payroll template for date format (MM/DD/YYYY), decimal hours, and one row per employee × state × client.
+I personally checked the key workflows end to end: submit (POST) → retrieve (GET) → download/export. I checked the Excel output against the expected payroll-template structure and formatting requirements, including date formatting and decimal-hour values.
 
 **4. Review readiness**
 I organized the documentation, validation evidence and presentation materials, co-presented live demos in weekly meetings, and presented at the final review in October 2025.
@@ -36,7 +36,7 @@ I organized the documentation, validation evidence and presentation materials, c
 ## Outcome
 
 - **Successfully completed:** confirmed by AscentUP's official Record of Completion (November 2025).
-- **Client feedback:** Honeydew Consulting's project contact rated the work **5/5** and noted strong team management, presentations, and keeping everyone aligned on shared expectations.
+- **Client feedback:** Honeydew Consulting's project contact gave the project a **5/5** evaluation and recognized my coordination, presentation contributions, and work keeping the team aligned on shared expectations.
 
 ## Skills demonstrated
 
@@ -47,4 +47,4 @@ Cross-functional coordination · Documentation discipline · Quality assurance (
 - This was a supervised, team-delivered MVP built for review. It was not a production deployment.
 - The validation checks covered the MVP's tested workflows in a local development setup. They are not a claim of production reliability.
 - SharePoint integration, Microsoft 365 sign-in, admin dashboards and Power BI/QuickBooks reporting were proposed as a later phase. They were not built as part of this project.
-- This repository is a written case study. It does not contain the application source code or any client data.
+- This repository contains a written case study only. It does not contain the application source code or any employee, customer or payroll records.
